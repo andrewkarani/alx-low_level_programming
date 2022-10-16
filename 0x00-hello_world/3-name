@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE .o clsfun
+echo 'gcc $CFILE .o clsfun'
